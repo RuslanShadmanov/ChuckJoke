@@ -83,13 +83,19 @@ img {
 
 .joke {
     height: 50px;
-    border: 1px dotted lightcoral;
+    border: 1px;
     width: 600px;
     margin-top: 10px;
     padding: 5px;
 
 }
 
+
+
+select{
+    padding: 10px;
+    margin-top: 20px;
+}
 
 @keyframes glowing {
     0% { background-position: 0 0; }
